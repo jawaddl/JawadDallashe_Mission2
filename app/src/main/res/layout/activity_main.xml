@@ -8,11 +8,11 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="169dp"
-        android:layout_height="73dp"
-        android:text="Click me "
-        android:textSize="24sp"
+        android:layout_width="210dp"
+        android:layout_height="179dp"
         android:onClick="go"
+        android:text="Click me "
+        android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
